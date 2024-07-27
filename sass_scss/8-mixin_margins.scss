@@ -1,0 +1,16 @@
+/*a Sass file that assigns:
+Margin left and right at 10px to body tags
+Margin left and right at 15px to div tags*/
+
+body {
+  font-size: 14px;
+
+  h1 {
+    font-size: 16px;
+
+    &.smaller {
+      font-size: 12px;
+    }
+  }
+}
+
