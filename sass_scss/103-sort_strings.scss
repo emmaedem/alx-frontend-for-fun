@@ -1,7 +1,7 @@
 /*Sass file that sorts variable $list_to_sort & print sorted list in the debug output.*/
 
 
-$list_to_sort: Lagos, Calabar, Enugu, Kano;
+$list_to_sort: Lagos ibadan Uyo  Calabar Enugu Kano;
 
 $sorted_list: sort($list_to_sort);
 
